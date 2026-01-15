@@ -1,5 +1,8 @@
 # UnoGlass
 
+![Imagen_2026-01-15__00_49_pegada](https://github.com/user-attachments/assets/05c26419-9310-4cee-9fcd-86439af45d60)
+
+
 A proof-of-concept exploring glass visual effects in Uno Platform. Started as an attempt to port [LiquidGlassAvaloniaUI](https://github.com/KaranocaVe/LiquidGlassAvaloniaUI). The SKSL shader pipeline works, but true backdrop capture remains challenging.
 
 ## Avalonia vs Uno Platform: Rendering Architecture
