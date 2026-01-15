@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "UnoGlass",
+  "display": "standalone",
+  "name": "UnoGlass",
+  "short_name": "UnoGlass",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}
